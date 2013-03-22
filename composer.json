@@ -1,7 +1,7 @@
 {
-    "name": "codeconsortium/ccdn-message-bundle",
+    "name": "emgiezet/ccdn-message-bundle",
     "type": "symfony-bundle",
-    "description": "CCDN Message Bundle",
+    "description": "CCDN Message Bundle - for symfony 2.2",
     "keywords": ["ccdn", "codeconsortium", "message", "mail"],
     "homepage": "http://github.com/codeconsortium/CCDNMessageMessageBundle",
     "license": "MIT",
@@ -14,8 +14,15 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.2",
-        "symfony/symfony": "2.1.*",
-        "doctrine/doctrine-bundle": "*"
+        "symfony/symfony": "2.2.*",
+        "doctrine/doctrine-bundle": "*",
+        "pagerfanta/pagerfanta": "1.0.*@dev",
+        "white-october/pagerfanta-bundle": "1.0.*@dev",
+        "codeconsortium/ccdn-component-bb-code-bundle": "dev-master",
+        "codeconsortium/ccdn-component-crumb-trail-bundle": "dev-master",
+        "codeconsortium/ccdn-component-common-bundle": "dev-master"
+        
+        
     },
     "autoload": {
         "psr-0": { "CCDNMessage\\MessageBundle": "" }
