@@ -20,7 +20,8 @@
         "white-october/pagerfanta-bundle": "1.0.*@dev",
         "emgiezet/ccdn-component-bb-code-bundle": "dev-master",
         "emgiezet/ccdn-component-crumb-trail-bundle": "dev-master",
-        "emgiezet/ccdn-component-common-bundle": "dev-master"
+        "emgiezet/ccdn-component-common-bundle": "dev-master",
+        "emgiezet/ccdn-component-dashboard-bundle": "dev-master"
         
         
     },
