@@ -18,9 +18,9 @@
         "doctrine/doctrine-bundle": "*",
         "pagerfanta/pagerfanta": "1.0.*@dev",
         "white-october/pagerfanta-bundle": "1.0.*@dev",
-        "codeconsortium/ccdn-component-bb-code-bundle": "dev-master",
-        "codeconsortium/ccdn-component-crumb-trail-bundle": "dev-master",
-        "codeconsortium/ccdn-component-common-bundle": "dev-master"
+        "emgiezet/ccdn-component-bb-code-bundle": "dev-master",
+        "emgiezet/ccdn-component-crumb-trail-bundle": "dev-master",
+        "emgiezet/ccdn-component-common-bundle": "dev-master"
         
         
     },
